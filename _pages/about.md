@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Junteng Liu"
 author_profile: true
 redirect_from: 
