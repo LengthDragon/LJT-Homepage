@@ -21,14 +21,6 @@ I am **Junteng Liu**, a first-year Ph.D. candidate in Computer Science at the Ho
 * **Research Intern**, Tencent WXG, June 2024 - September 2024 (advised by Zifei Shan)
 * **Research Intern**, Shanghai AI Lab, June 2023 - December 2023 (advised by Prof. Yu Cheng)
 
-## Research Interests
-
-* Natural Language Processing
-* Machine Learning
-* LLM Reasoning and Reinforcement Learning
-* Hallucination in Vision-Language Models (VLM)
-* LLM Truthfulness and Interpretability
-
 ## Skills
 
 * Natural Language Processing
